@@ -1,0 +1,896 @@
+What is the difference between block-level and inline-level elements?
+How do you make an image accessible in HTML?
+Explain the importance of semantic HTML.
+What is the purpose of the alt attribute in an <img> tag?
+How do you create a table in HTML, and when should you use tables?
+What are HTML5 semantic tags, and how do they differ from previous versions?
+Explain the differences between <section>, <div>, and <article>.
+What is the role of the doctype in HTML?
+How do you implement SEO best practices in HTML?
+Explain the use and benefits of the aria attributes in HTML.
+What is the purpose of the <meta> tag in HTML?
+How do you make a form accessible in HTML?
+What are the different types of input elements in HTML5?
+How can you embed multimedia in HTML5 (audio, video)?
+What is the purpose of the data-* attributes?
+How do you implement responsive design in HTML?
+What is the difference between id and class attributes?
+How do you handle cross-browser compatibility in HTML?
+Explain the concept of a "shadow DOM."
+What are custom elements in HTML?
+What is the CSS Box Model, and how does it work?
+Explain the difference between padding, margin, and border.
+What are CSS Flexbox and CSS Grid? How do they differ?
+How would you create a responsive layout using CSS?
+What is the purpose of the z-index property in CSS?
+How does the display property work? Explain block, inline, inline-block, flex, grid, etc.
+What are CSS media queries, and how do you use them?
+How do you create a CSS animation?
+What are CSS preprocessors (like SASS or LESS), and what benefits do they provide?
+Explain the difference between absolute, relative, fixed, and sticky positioning in CSS.
+What is the purpose of the !important declaration in CSS?
+How do you use pseudo-classes and pseudo-elements in CSS?
+How can you optimize CSS for performance?
+What are CSS custom properties (CSS variables)?
+How do you handle browser-specific CSS styles?
+Explain the concept of "BEM" (Block Element Modifier) methodology in CSS.
+What are CSS transitions, and how do they work?
+How would you implement a CSS-based dropdown menu?
+Explain the concept of specificity in CSS.
+How can you create a responsive image gallery using CSS Grid?
+What is the difference between var, let, and const?
+Explain the concept of closures in JavaScript.
+What is event delegation, and how does it work?
+How does JavaScript handle asynchronous code?
+Explain the difference between == and ===.
+What are JavaScript promises, and how do they work?
+What is the difference between null, undefined, and NaN?
+How do you create and manipulate objects in JavaScript?
+What is the difference between synchronous and asynchronous functions?
+How do you use arrow functions in JavaScript, and how do they differ from regular functions?
+Explain the concept of "hoisting" in JavaScript.
+What is a "callback" function, and how is it used?
+How does JavaScript's this keyword work?
+What is the purpose of the bind(), call(), and apply() methods?
+How do you handle errors in JavaScript?
+Explain how the map(), filter(), and reduce() functions work in JavaScript.
+What is the purpose of the event.preventDefault() method?
+How does JavaScript's prototype chain work?
+What are ES6 modules, and how do they differ from older module systems?
+How do you handle scope in JavaScript?
+What is "Currying" in JavaScript, and how does it work?
+Explain the concept of "memoization" in JavaScript.
+How do you implement debouncing and throttling in JavaScript?
+What are generators, and how do they work in JavaScript?
+Explain the difference between deep and shallow copy in JavaScript.
+How do you handle memory leaks in JavaScript?
+What are Web Workers, and when would you use them?
+Explain how async and await work in JavaScript.
+What are JavaScript decorators, and how are they used?
+How do you implement lazy loading in JavaScript?
+What is the event loop in JavaScript, and how does it work?
+How do you work with IndexedDB in JavaScript?
+Explain the concept of "service workers" in JavaScript.
+What are the differences between localStorage, sessionStorage, and cookies?
+How do you optimize JavaScript code for performance?
+What is "functional programming" in JavaScript, and how does it differ from object-oriented programming?
+How do you work with promises and async/await together?
+What are Proxy objects in JavaScript?
+Explain the use of Symbol in JavaScript.
+How do you handle concurrency in JavaScript?
+5. Frameworks & Libraries (React, Angular, Vue, etc.)
+What is the virtual DOM in React, and how does it improve performance?
+Explain the concept of state management in React.
+How do you handle side effects in React?
+What are React hooks, and how do they work?
+Explain the difference between functional and class components in React.
+How does two-way data binding work in Angular?
+What is the purpose of Vue.js "directives," and how are they used?
+How do you optimize a large React application?
+What is Angular’s dependency injection system?
+How do you handle routing in a React or Angular application?
+What is the role of "computed properties" in Vue.js?
+How do you manage forms in React?
+What are Angular modules, and how do they structure an application?
+How does Vue's reactivity system work?
+Explain how to use the Context API in React.
+How do you handle component lifecycle methods in React?
+What is the purpose of NgRx in Angular?
+How do you handle slot content in Vue.js?
+What are Higher-Order Components (HOCs) in React?
+How do you optimize rendering performance in Vue.js?
+How do you write unit tests for JavaScript functions?
+What is Jest, and how do you use it for testing?
+How do you perform end-to-end (E2E) testing in a frontend application?
+Explain the concept of snapshot testing in React.
+What is Mocha, and how does it differ from Jest?
+How do you mock data in unit tests?
+How do you handle asynchronous tests in JavaScript?
+What is Cypress, and how is it used for frontend testing?
+How do you debug a React or Angular application?
+What are the best practices for writing maintainable tests?
+How do you perform cross-browser testing?
+How do you use a debugger in JavaScript?
+What are the benefits of test-driven development (TDD) in frontend development?
+How do you write integration tests in a frontend application?
+What is a "test pyramid," and how does it apply to frontend testing?
+How do you handle errors and exceptions in unit tests?
+What tools do you use for performance testing of frontend applications?
+How do you test components with hooks in React?
+What is the purpose of code coverage in testing?
+How do you test for accessibility in a frontend application?
+How do you reduce the initial load time of a frontend application?
+What is lazy loading, and how is it implemented in a frontend application?
+How do you optimize images for the web?
+What is code splitting, and how does it work in JavaScript frameworks?
+How do you minimize the impact of JavaScript on performance?
+What is a Content Delivery Network (CDN), and how does it improve performance?
+How do you optimize the rendering of a large list of items?
+What is tree shaking, and how does it help reduce bundle size?
+How do you optimize a React application for performance?
+What are the best practices for managing CSS performance?
+How do you use requestAnimationFrame for smooth animations?
+How do you handle large datasets in a frontend application?
+What is the purpose of service workers in optimizing performance?
+How do you measure and improve the Time to First Byte (TTFB)?
+What are the benefits of prefetching and preloading resources?
+How do you optimize the use of fonts in a web application?
+How do you leverage browser caching for performance?
+How do you optimize JavaScript for mobile devices?
+What are WebAssembly, and how can it be used to improve performance?
+How do you reduce the impact of third-party scripts on performance?
+What are common security vulnerabilities in frontend applications?
+How do you protect against Cross-Site Scripting (XSS) attacks?
+What is Content Security Policy (CSP), and how does it work?
+How do you handle Cross-Site Request Forgery (CSRF) in a frontend application?
+What are best practices for securing API calls in a frontend application?
+How do you secure data stored in localStorage and sessionStorage?
+What is the purpose of HTTPS in frontend security?
+How do you prevent Clickjacking attacks?
+How do you handle authentication securely in a frontend application?
+What are CORS, and how do they impact frontend security?
+How do you manage secrets and environment variables securely in a frontend application?
+How do you implement secure file uploads in a frontend application?
+What are the security implications of using third-party libraries?
+How do you handle secure communication between frontend and backend?
+How do you protect against Man-in-the-Middle (MITM) attacks?
+What are the WCAG guidelines, and why are they important?
+How do you make a website accessible for screen readers?
+What is ARIA, and how does it enhance accessibility?
+How do you implement keyboard navigation for accessibility?
+How do you ensure color contrast meets accessibility standards?
+What are the best practices for accessible forms?
+How do you provide text alternatives for non-text content?
+How do you handle focus management for accessibility?
+What are skip links, and how do they improve accessibility?
+How do you ensure that dynamic content is accessible?
+What is the purpose of "alt text" in images for accessibility?
+How do you test for accessibility in a frontend application?
+How do you handle accessible error messages in forms?
+How do you ensure accessible navigation in single-page applications (SPAs)?
+What are the implications of using custom components for accessibility?
+How do you implement accessible modal dialogs?
+How do you ensure that video content is accessible?
+How do you make sure that ARIA roles are used correctly?
+How do you test a web application for accessibility using tools?
+What are the best practices for accessible typography?
+What is Webpack, and how does it help in building frontend applications?
+How do you configure Babel for a frontend project?
+What are linters, and how do they improve code quality?
+How do you set up a continuous integration (CI) pipeline for a frontend project?
+How do you use Git for version control in a frontend project?
+What are the best practices for code reviews in a frontend team?
+How do you configure ESLint for a JavaScript project?
+What is the purpose of a task runner like Gulp or Grunt?
+How do you manage dependencies in a frontend project?
+What is the purpose of a package manager like npm or Yarn?
+How do you automate the deployment of a frontend application?
+How do you set up and use Storybook for component development?
+How do you handle versioning in a frontend project?
+What are the best practices for writing commit messages?
+How do you use Git hooks to enforce coding standards?
+What is the purpose of Prettier in a frontend project?
+How do you handle environment variables in a frontend project?
+How do you configure a linter for a CSS or SCSS project?
+What are the best practices for managing a monorepo in a frontend project?
+How do you set up Docker for a frontend application?
+What is React, and why would you use it?
+Explain the concept of JSX in React.
+How does the virtual DOM work in React?
+What are functional components in React?
+What is the difference between a functional component and a class component?
+How do you create a React component?
+How does state work in React?
+What is the purpose of props in React?
+How do you handle events in React?
+What are React hooks, and how do they work?
+How does the useState hook work?
+Explain the useEffect hook and its use cases.
+What is the difference between controlled and uncontrolled components in React?
+How do you pass data between components in React?
+What is the purpose of the key prop in lists?
+How do you handle forms in React?
+What is the Context API, and when would you use it?
+Explain how to lift state up in React.
+How does conditional rendering work in React?
+What are Higher-Order Components (HOCs)?
+What is the useMemo hook, and when would you use it?
+How does React's reconciliation process work?
+What are React fragments, and how are they used?
+What is the useReducer hook, and how does it differ from useState?
+How do you implement routing in a React application?
+What is the useRef hook, and what are its use cases?
+Explain how React handles component lifecycle methods.
+What is the difference between componentDidMount and useEffect?
+How do you create a custom hook in React?
+How does React handle asynchronous operations?
+What is React's context provider, and how does it work?
+How do you implement lazy loading in React?
+What is React.memo, and how does it help with performance?
+How does React handle form validation?
+What is PropTypes in React, and how do you use it?
+How do you optimize rendering performance in a React application?
+How do you use portals in React?
+Explain the concept of "lifting state" in React.
+What are render props in React?
+How does React handle error boundaries?
+What are Pure Components in React?
+How do you implement code splitting in React?
+What is the useImperativeHandle hook, and when would you use it?
+How do you handle side effects in React?
+What is the purpose of the StrictMode component in React?
+How does React handle SSR (Server-Side Rendering)?
+What is the role of hydration in SSR with React?
+How do you implement context-based theming in React?
+What are Concurrent Mode and Suspense in React?
+How do you optimize React applications for mobile devices?
+What is the difference between React Native and React?
+How do you handle authentication in a React application?
+What is the purpose of useCallback in React?
+How do you create a global state management solution in React?
+What are React portals, and how do they work?
+How do you implement accessibility in a React application?
+What are the performance implications of using React hooks?
+How do you handle component re-renders in React?
+What is the purpose of useLayoutEffect in React?
+How do you handle routing transitions in React Router?
+What is the role of Redux in a React application?
+How do you connect React components to a Redux store?
+What is the difference between Redux and the Context API?
+How do you handle side effects with Redux Thunk or Redux Saga?
+How do you implement server-side rendering with Next.js?
+How do you manage large state in React applications?
+How do you handle forms with Formik in React?
+What are React refs, and how do they work?
+How do you handle file uploads in a React application?
+What are controlled and uncontrolled components in React?
+How do you use GraphQL with React?
+What is the purpose of React's experimental concurrent mode?
+How do you handle API requests in React?
+How do you optimize bundle size in a React application?
+How do you handle animations in React using libraries like Framer Motion?
+How do you implement drag-and-drop functionality in React?
+How do you use React's profiler for performance tuning?
+What is the purpose of the useContext hook in React?
+How do you manage multiple forms in a React application?
+How do you implement error tracking in a React application?
+How do you use TypeScript with React?
+How do you implement internationalization (i18n) in React?
+How do you handle WebSocket connections in React?
+How do you implement an infinite scroll in a React application?
+What are the best practices for managing state in React?
+How do you implement dark mode in a React application?
+How do you optimize a large list rendering in React?
+How do you handle complex form validation in React?
+What is the difference between React.memo and useMemo?
+How do you manage side effects in a React application?
+How do you implement SSR with React and Express?
+How do you use React with a headless CMS?
+How do you handle React component testing with Jest and Enzyme?
+How do you set up a custom webpack configuration for a React project?
+How do you implement caching in a React application?
+What is the purpose of useDebugValue in React?
+How do you handle authentication flows in React with JWT?
+How do you implement role-based access control in a React application?
+How do you use the React DevTools for debugging?
+How do you optimize the performance of a large React application?
+What is Angular, and why is it used?
+What is the architecture of an Angular application?
+How do you create a new Angular project using the Angular CLI?
+What is a component in Angular, and how do you create one?
+What is a module in Angular?
+How does data binding work in Angular?
+What is the purpose of directives in Angular?
+How do you handle events in Angular?
+What is Angular's dependency injection system?
+How do you create a service in Angular?
+What is the purpose of the ngOnInit lifecycle hook?
+How do you implement routing in Angular?
+What is the role of the @Input and @Output decorators?
+How does Angular handle forms (template-driven vs. reactive)?
+What is the Angular CLI, and how does it help in development?
+What is the difference between ngFor and ngIf directives?
+How do you create and use pipes in Angular?
+What is a custom directive, and how do you create one?
+How do you handle HTTP requests in Angular?
+What are Angular services, and how do you inject them?
+What is the purpose of the async pipe in Angular?
+How do you handle child routes in Angular?
+What is Angular's change detection mechanism?
+How do you create a reactive form in Angular?
+How does Angular handle form validation?
+What are Angular resolvers, and how are they used?
+How do you create a shared module in Angular?
+What is the purpose of Angular's NgModule decorator?
+How do you implement lazy loading in Angular?
+What is the role of Angular guards, and how do you use them?
+How do you implement authentication in Angular?
+What are Angular interceptors, and how are they used?
+How do you handle dynamic components in Angular?
+What is the purpose of the ViewChild and ContentChild decorators?
+How do you implement a custom pipe in Angular?
+How does Angular handle internationalization (i18n)?
+What is the role of Angular's Renderer2 service?
+How do you optimize an Angular application for performance?
+How do you handle animations in Angular?
+What is the difference between OnPush and default change detection strategies?
+How do you create a custom form control in Angular?
+What are Angular Zones, and how do they affect change detection?
+How do you manage state in an Angular application?
+What is the purpose of Angular's Injector?
+How do you handle error handling in Angular?
+How do you create a multi-module Angular application?
+How do you implement SSR (Server-Side Rendering) with Angular?
+What are Angular templates, and how do they work?
+How do you create reusable components in Angular?
+How do you implement a dynamic form in Angular?
+What is the purpose of Angular's trackBy function?
+How do you manage global state in an Angular application?
+What are Angular view encapsulation strategies?
+How do you handle file uploads in Angular?
+What is Angular's Ivy engine, and how does it improve the framework?
+How do you implement role-based access control in Angular?
+How do you use Angular Material in an application?
+What is the purpose of Angular's RendererFactory2 service?
+How do you create a custom structural directive in Angular?
+What is Angular Universal, and how does it work?
+How do you handle observables in Angular?
+What is the purpose of Angular's HostListener and HostBinding decorators?
+How do you create a dynamic component loader in Angular?
+How do you implement a multi-step form in Angular?
+How do you configure Angular's HttpClient for global settings?
+How do you use Angular's ViewContainerRef for dynamic components?
+How do you implement Angular's Resolver to preload data for routes?
+How do you optimize the build size of an Angular application?
+How do you manage dependencies in an Angular application?
+What is the purpose of Angular's Injector.create() method?
+How do you implement an infinite scroll in Angular?
+What is Angular's Injector, and how does it differ from a service?
+How do you handle nested forms in Angular?
+How do you implement Angular animations using the AnimationBuilder service?
+How do you handle application state management in Angular with NgRx?
+How do you create a custom decorator in Angular?
+How do you use Angular's NgZone to optimize performance?
+How do you create a custom Angular CLI schematic?
+How do you handle WebSocket connections in Angular?
+What are Angular's content projection and ng-content?
+How do you implement Angular modules to load features dynamically?
+How do you handle server-side rendering with Angular Universal?
+How do you implement error handling for HTTP requests in Angular?
+How do you use Angular's HttpInterceptor for logging requests?
+How do you create a custom Angular library?
+How do you use Angular's ComponentFactoryResolver for dynamic component creation?
+How do you implement Angular's Service Worker for PWA support?
+How do you handle multiple outlets in Angular routing?
+How do you create a custom Angular form validator?
+How do you use Angular's Renderer2 for cross-platform rendering?
+How do you implement Angular testing with Jasmine and Karma?
+How do you set up Angular projects with Webpack for custom builds?
+How do you implement Angular's ElementRef for DOM manipulation?
+How do you use Angular's BrowserAnimationsModule?
+How do you implement Angular guards to secure routes?
+How do you create a custom Angular build with ng-packagr?
+How do you manage complex routing scenarios in Angular?
+How do you implement Angular lazy loading with route guards?
+How do you set up a continuous integration (CI) pipeline for Angular projects?
+How do you handle Angular project versioning with semantic versioning?
+What is RxJS, and why is it used?
+What is an Observable in RxJS?
+How do you create an Observable in RxJS?
+What are operators in RxJS?
+What is the difference between a cold and hot Observable?
+How do you subscribe to an Observable in RxJS?
+What is the purpose of the map operator in RxJS?
+How does the filter operator work in RxJS?
+What is the difference between mergeMap and switchMap?
+How do you handle errors in RxJS?
+What is the purpose of the of and from operators?
+How do you create a Subject in RxJS?
+What is the difference between a Subject and a BehaviorSubject?
+How do you use the combineLatest operator in RxJS?
+What is the forkJoin operator, and when would you use it?
+How does the debounceTime operator work in RxJS?
+What is the purpose of the catchError operator?
+How do you implement retry logic with RxJS?
+What is a ReplaySubject in RxJS?
+How do you use the take and takeUntil operators?
+What is the zip operator, and how does it work?
+How do you handle asynchronous operations with RxJS?
+What is the merge operator, and how is it different from concat?
+How does the startWith operator work?
+What is the distinctUntilChanged operator, and why is it used?
+How do you implement polling with RxJS?
+What is the purpose of the withLatestFrom operator?
+How do you handle backpressure in RxJS?
+What is the scan operator, and how does it work?
+How do you use the shareReplay operator in RxJS?
+What is a multicast Observable in RxJS?
+How do you implement rate limiting with RxJS?
+How does the tap operator work in RxJS?
+What is the groupBy operator, and how do you use it?
+How do you create custom operators in RxJS?
+What is the purpose of the exhaustMap operator?
+How do you handle conditional logic in RxJS?
+How does the pairwise operator work in RxJS?
+What is the delay operator, and how do you use it?
+How do you handle time-based operations with RxJS?
+What is the pluck operator, and how does it work?
+How do you use the reduce operator in RxJS?
+What is the difference between mergeAll and concatAll?
+How do you handle infinite streams in RxJS?
+What is the partition operator, and how do you use it?
+How do you implement caching with RxJS?
+What is the window operator in RxJS?
+How do you handle retries with delay in RxJS?
+What is the throttleTime operator, and how does it work?
+How do you handle side effects in RxJS?
+What is the purpose of the concatMap operator?
+How do you implement complex event streams with RxJS?
+How do you use the expand operator in RxJS?
+What is the onErrorResumeNext operator, and how does it work?
+How do you handle sequences with RxJS?
+What is the windowWhen operator in RxJS?
+How do you implement custom Observable creation with create?
+How does the buffer operator work in RxJS?
+What is the switchMapTo operator, and how is it used?
+How do you handle concurrency with RxJS?
+What is the bufferCount operator, and how does it work?
+How do you use the dematerialize operator in RxJS?
+How does the timeout operator work in RxJS?
+What is the materialize operator, and why is it used?
+How do you handle complex data streams with RxJS?
+What is the timeInterval operator, and how do you use it?
+How do you use the share operator in RxJS?
+What is the retryWhen operator, and how does it work?
+How do you implement an Observable with a finite lifespan in RxJS?
+What is the sequenceEqual operator in RxJS?
+How do you handle nested Observables with RxJS?
+What is the auditTime operator, and how do you use it?
+How do you implement retry logic with exponential backoff in RxJS?
+What is the windowTime operator, and how does it work?
+How do you use the retry operator in RxJS?
+What is the repeat operator, and how is it used?
+How do you implement stateful Observables with RxJS?
+What is the bufferTime operator, and how does it work?
+How do you use the concat operator in RxJS?
+What is the exhaust operator, and how does it differ from switchMap?
+How do you handle recursive streams with RxJS?
+What is the skipUntil operator, and how does it work?
+How do you implement a cancelable Observable in RxJS?
+What is the delayWhen operator, and how do you use it?
+How do you handle Observable termination in RxJS?
+What is the windowToggle operator, and how is it used?
+How do you use the switchAll operator in RxJS?
+What is the combineLatestAll operator in RxJS?
+How do you handle memory leaks in RxJS?
+What is the concatMapTo operator, and how does it work?
+How do you implement a stateful stream with RxJS?
+What is the bufferToggle operator in RxJS?
+How do you implement a debounce with RxJS?
+What is the shareReplay operator, and how does it optimize performance?
+How do you manage complex subscriptions in RxJS?
+What is the exhaustMap operator, and how does it handle concurrency?
+How do you create a custom Subject in RxJS?
+How do you use the audit operator in RxJS?
+What is the retryWhen operator, and how does it work with delays?
+How do you use the combineLatestWith operator in RxJS?
+What is Jest, and why is it used for testing?
+How do you install Jest in a JavaScript project?
+How do you write a basic test in Jest?
+What is the purpose of the describe block in Jest?
+How do you test a function that returns a value in Jest?
+How do you test a function that throws an error in Jest?
+What is the beforeEach and afterEach in Jest?
+How do you mock a function in Jest?
+What is the purpose of the test function in Jest?
+How do you test asynchronous code with Jest?
+What is the expect function in Jest?
+How do you test a function that returns a promise in Jest?
+What are matchers in Jest?
+How do you test for specific exceptions in Jest?
+What is the purpose of the jest.fn() method?
+How do you mock modules in Jest?
+What is the difference between toBe and toEqual in Jest?
+How do you test React components with Jest?
+What is a snapshot test in Jest?
+How do you create a snapshot in Jest?
+How do you update a snapshot in Jest?
+What is the purpose of the jest.mock() method?
+How do you test a Redux action with Jest?
+How do you test a Redux reducer with Jest?
+What is the jest.spyOn() method?
+How do you test a function with a callback in Jest?
+How do you use jest.clearAllMocks() in testing?
+How do you test timers with Jest?
+How do you test a React component's lifecycle methods with Jest?
+How do you handle code coverage in Jest?
+What is the purpose of the jest.resetModules() method?
+How do you test a higher-order component (HOC) with Jest?
+What is the purpose of the jest.resetAllMocks() method?
+How do you mock an API call in Jest?
+What is the jest.runAllTimers() method used for?
+How do you test event handlers in Jest?
+How do you test React hooks with Jest?
+How do you handle global setup and teardown in Jest?
+What is the purpose of jest.mockImplementation()?
+How do you use jest.setTimeout() to adjust test timeouts?
+How do you test for thrown exceptions in Jest?
+What is the jest.useFakeTimers() method used for?
+How do you test a component with context in Jest?
+What is the jest.advanceTimersByTime() method?
+How do you test a React component with props in Jest?
+How do you test for the presence of an element in the DOM with Jest?
+How do you handle mocking nested dependencies in Jest?
+What is the purpose of jest.doMock()?
+How do you mock a class in Jest?
+How do you test a function that interacts with the DOM in Jest?
+How do you handle asynchronous tests with done() in Jest?
+How do you test a component with hooks in Jest?
+What is the jest.requireActual() method used for?
+How do you handle testing promises in Jest?
+What is the purpose of the jest.isolateModules() method?
+How do you test for the absence of an element in Jest?
+How do you use jest.mockReturnValue() to mock return values?
+How do you test an API service with Jest?
+What is the jest.mockClear() method used for?
+How do you test a custom hook in Jest?
+How do you test a memoized component in Jest?
+What is the purpose of the jest.mockResolvedValue() method?
+How do you mock window.location in Jest?
+What is the jest.mockRejectedValue() method used for?
+How do you test a component with useEffect in Jest?
+How do you test componentDidMount in a class component with Jest?
+How do you mock localStorage in Jest?
+What is the jest.mockImplementationOnce() method used for?
+How do you test custom events in Jest?
+How do you test React Router components with Jest?
+How do you test an infinite loop condition in Jest?
+How do you mock the Date object in Jest?
+What is the jest.mock.calls array used for?
+How do you handle unhandled promise rejections in Jest tests?
+How do you use jest.fn() to mock a function's return value?
+How do you mock Fetch API in Jest?
+How do you test a component's conditional rendering in Jest?
+What is the purpose of jest.mockImplementation()?
+How do you mock external modules in Jest?
+How do you test a function that makes network requests in Jest?
+What is the purpose of jest.mockReturnThis()?
+How do you test private methods in Jest?
+How do you mock an instance method in Jest?
+How do you use jest.restoreAllMocks() in Jest?
+How do you test global variables in Jest?
+How do you mock a singleton service in Jest?
+How do you test for multiple calls in Jest?
+What is the purpose of jest.resetModuleRegistry()?
+How do you test async/await code in Jest?
+How do you mock a dependency in Jest using jest.genMockFromModule()?
+How do you test class component lifecycle methods in Jest?
+How do you handle snapshot testing with dynamic data in Jest?
+How do you test for state changes in Jest?
+How do you mock an entire module in Jest?
+What is the purpose of jest.runOnlyPendingTimers()?
+How do you mock ES6 modules in Jest?
+How do you test React context providers with Jest?
+How do you mock Axios requests in Jest?
+How do you test for side effects in Jest?
+How do you mock native browser APIs like fetch or WebSocket in Jest?
+How do you design a scalable frontend architecture for a large-scale application?
+What are the benefits and challenges of using a micro-frontend architecture?
+How do you implement state management in a complex frontend application?
+How do you handle cross-cutting concerns (e.g., logging, error handling) in a frontend architecture?
+What are the key considerations when designing a component library for a large organization?
+How do you structure your project to support long-term maintainability?
+What are the advantages and disadvantages of using a monolithic vs. modular frontend architecture?
+How do you ensure consistent performance across a frontend architecture?
+How do you design a frontend architecture to support multiple teams working on the same project?
+How do you implement lazy loading in a complex application?
+What are the best practices for implementing responsive design in a large-scale application?
+How do you integrate third-party libraries into a well-structured frontend architecture?
+How do you manage dependencies across multiple frontend modules?
+How do you design a frontend architecture that supports both server-side and client-side rendering?
+What is the role of a design system in a frontend architecture?
+How do you implement internationalization (i18n) and localization (l10n) in a scalable architecture?
+How do you handle authentication and authorization in a complex frontend architecture?
+What strategies do you use for managing large codebases in frontend projects?
+How do you design a frontend architecture to be future-proof?
+How do you ensure security in a frontend architecture?
+How do you handle asynchronous data fetching in a complex frontend application?
+What are the best practices for error handling in a large frontend application?
+How do you implement testing strategies for a large-scale frontend architecture?
+How do you manage CSS in a scalable frontend architecture?
+How do you implement feature flags in a large frontend application?
+How do you handle browser compatibility in a complex frontend architecture?
+How do you structure a frontend architecture to support multiple brands or themes?
+What are the best practices for API integration in a large-scale frontend application?
+How do you handle data caching in a frontend architecture?
+How do you design a frontend architecture that is easy to refactor?
+How do you manage versioning in a large frontend project?
+How do you handle real-time updates in a complex frontend application?
+What strategies do you use to ensure high availability in a frontend architecture?
+How do you implement accessibility (a11y) in a scalable frontend architecture?
+How do you handle routing in a large-scale frontend application?
+How do you design a frontend architecture to minimize load times?
+How do you handle data normalization and denormalization in a complex frontend application?
+What are the best practices for managing large-scale forms in a frontend architecture?
+How do you design a frontend architecture that supports offline functionality?
+How do you manage frontend build processes in a large-scale application?
+How do you implement microservices in a frontend architecture?
+How do you design a frontend architecture to be mobile-first?
+How do you handle WebSocket connections in a large-scale frontend application?
+How do you manage frontend logging and monitoring in a complex application?
+How do you implement A/B testing in a large frontend architecture?
+How do you design a frontend architecture to handle large data sets efficiently?
+How do you manage configuration in a complex frontend architecture?
+How do you implement a modular monolith in frontend development?
+How do you handle frontend-backend communication in a large-scale application?
+How do you integrate DevOps practices into a frontend architecture?
+What are Web Components, and what problems do they solve?
+How do you create a custom element in Web Components?
+What are the four main specifications of Web Components?
+How do you use Shadow DOM in Web Components?
+What is the purpose of the customElements.define() method?
+How do you handle styles in Web Components?
+How do you pass data between Web Components?
+How do you use slots in Web Components?
+How do you implement lifecycle callbacks in Web Components?
+How do you test Web Components?
+How do you ensure reusability in Web Components?
+How do you integrate Web Components with frameworks like React or Angular?
+What are the limitations of Web Components, and how do you overcome them?
+How do you manage state in Web Components?
+How do you implement dynamic content in Web Components?
+How do you handle events in Web Components?
+How do you optimize performance in Web Components?
+What are the differences between Light DOM and Shadow DOM?
+How do you handle accessibility in Web Components?
+How do you create a custom attribute in Web Components?
+How do you handle data binding in Web Components?
+How do you create a polyfill for Web Components?
+How do you manage dependencies in Web Components?
+How do you integrate Web Components into legacy applications?
+How do you implement routing in Web Components?
+How do you handle internationalization in Web Components?
+What are the best practices for designing Web Components?
+How do you implement slots for content projection in Web Components?
+How do you use CSS custom properties with Web Components?
+How do you handle theming in Web Components?
+How do you implement a custom event in Web Components?
+How do you handle animations in Web Components?
+How do you manage lifecycle states in Web Components?
+How do you handle form data in Web Components?
+How do you use mixins in Web Components?
+How do you create a library of Web Components?
+How do you manage versioning in Web Components?
+How do you implement lazy loading in Web Components?
+How do you handle Shadow DOM encapsulation in Web Components?
+How do you integrate Web Components with CSS frameworks like Bootstrap?
+How do you handle error boundaries in Web Components?
+How do you create a custom element registry in Web Components?
+How do you optimize Web Components for SEO?
+How do you manage asynchronous operations in Web Components?
+How do you handle complex interactions in Web Components?
+How do you implement Web Components in a micro-frontend architecture?
+How do you handle security concerns in Web Components?
+How do you integrate Web Components with WebAssembly?
+How do you manage shared state across multiple Web Components?
+How do you implement testing strategies for a large Web Component library?
+What are the benefits of using TypeScript over JavaScript in large-scale applications?
+How do you enforce strict type checking in TypeScript?
+How do you create and use interfaces in TypeScript?
+What is the purpose of TypeScript's any type, and when should it be used?
+How do you implement generics in TypeScript?
+What is the difference between interface and type in TypeScript?
+How do you handle nullable types in TypeScript?
+How do you use TypeScript's union types?
+How do you implement type guards in TypeScript?
+How do you create and use enums in TypeScript?
+How do you handle type inference in TypeScript?
+What are mapped types in TypeScript, and how do you use them?
+How do you implement conditional types in TypeScript?
+How do you use TypeScript's Partial and Required utility types?
+How do you handle type compatibility in TypeScript?
+What are decorators in TypeScript, and how do you use them?
+How do you implement mixins in TypeScript?
+How do you create a custom type definition in TypeScript?
+How do you use the readonly modifier in TypeScript?
+How do you implement advanced type manipulation with TypeScript?
+How do you use TypeScript with React or Angular?
+How do you handle type-safe Redux actions in TypeScript?
+How do you use the keyof operator in TypeScript?
+How do you implement type-safe dependency injection in TypeScript?
+How do you handle complex object types in TypeScript?
+How do you use TypeScript's Pick and Omit utility types?
+How do you implement recursive types in TypeScript?
+How do you handle advanced type narrowing in TypeScript?
+What are intersection types in TypeScript, and how do you use them?
+How do you handle overloading in TypeScript?
+How do you use the infer keyword in TypeScript?
+How do you implement type-safe higher-order functions in TypeScript?
+How do you use the Record type in TypeScript?
+How do you create and use ambient declarations in TypeScript?
+How do you manage large TypeScript projects with multiple modules?
+How do you handle TypeScript with Webpack?
+How do you implement type-safe APIs in TypeScript?
+How do you use TypeScript with GraphQL?
+How do you handle TypeScript's unknown type?
+How do you use discriminated unions in TypeScript?
+How do you implement a type-safe builder pattern in TypeScript?
+How do you handle variadic tuple types in TypeScript?
+How do you use TypeScript's Exclude and Extract utility types?
+How do you handle module augmentation in TypeScript?
+How do you implement a type-safe event system in TypeScript?
+How do you handle JSON with TypeScript?
+How do you use TypeScript's ThisType utility type?
+How do you handle asynchronous code with TypeScript's Promise type?
+How do you use TypeScript's Awaited type for handling async/await?
+How do you implement a type-safe factory pattern in TypeScript?
+What are the best practices for managing state in React applications?
+How do you optimize React component rendering?
+What are the benefits of using React Context API for global state management?
+How do you structure a large-scale React application?
+What are the best practices for handling side effects in React?
+How do you use React hooks effectively in functional components?
+How do you implement lazy loading in React for performance optimization?
+How do you ensure accessibility (a11y) in React applications?
+What are the best practices for testing React components?
+How do you manage form state in React applications?
+How do you handle error boundaries in React?
+What are the benefits of using React.memo and useMemo for optimization?
+How do you use custom hooks to encapsulate logic in React?
+What are the best practices for handling API calls in React?
+How do you manage component lifecycle in functional components using hooks?
+How do you handle routing in a React application using React Router?
+What are the best practices for using TypeScript with React?
+How do you manage complex state in React using Redux or Recoil?
+How do you optimize bundle size in React applications?
+How do you handle conditional rendering in React?
+How do you manage component styles in React applications?
+What are the best practices for code splitting in React?
+How do you use React Suspense and Concurrent Mode effectively?
+How do you handle authentication and authorization in React?
+What are the best practices for handling forms in React?
+How do you manage component reusability in a React application?
+What are the best practices for using PropTypes or TypeScript interfaces in React?
+How do you handle server-side rendering (SSR) with React?
+How do you optimize the performance of React applications in production?
+How do you handle complex animations in React using libraries like Framer Motion?
+What are the best practices for integrating third-party libraries with React?
+How do you handle state synchronization in React applications?
+What are the best practices for managing component side effects using React hooks?
+How do you implement dark mode in a React application?
+How do you use React's useRef hook for DOM manipulation?
+What are the best practices for structuring CSS in React applications?
+How do you manage routing in a React application with nested routes?
+How do you handle errors and exceptions in a React application?
+What are the best practices for optimizing React app performance on mobile devices?
+How do you implement internationalization (i18n) in React applications?
+How do you manage asynchronous operations in React using hooks?
+What are the best practices for implementing feature flags in React?
+How do you optimize React app performance with code splitting and lazy loading?
+How do you handle deep linking and navigation in React applications?
+What are the best practices for managing and organizing components in a large React project?
+How do you handle and manage state persistence in React applications?
+How do you optimize image loading and performance in React applications?
+How do you handle and manage component-level caching in React?
+What are the best practices for integrating analytics and tracking in React applications?
+How do you manage and optimize media queries in React applications?
+What are the best practices for structuring Angular applications?
+How do you optimize Angular application performance?
+What are the best practices for managing state in Angular applications?
+How do you use Angular Signals effectively in application design?
+How do you implement lazy loading in Angular for improved performance?
+What are the best practices for using Angular services for data management?
+How do you handle dependency injection in Angular?
+How do you implement reactive forms in Angular applications?
+What are the best practices for handling side effects in Angular using NgRx or Services?
+How do you manage component interaction using Angular Signals?
+How do you structure Angular modules for scalability?
+What are the best practices for handling API calls in Angular?
+How do you implement state management using NgRx or Akita in Angular?
+How do you handle complex routing in Angular applications?
+What are the best practices for using Angular decorators effectively?
+How do you implement dynamic components in Angular?
+How do you manage Angular Signals for optimizing reactivity in your application?
+What are the best practices for handling Angular animations?
+How do you ensure accessibility (a11y) in Angular applications?
+How do you manage and optimize Angular applications with AOT (Ahead-Of-Time) compilation?
+What are the best practices for testing Angular components and services?
+How do you use Angular Signals for real-time data updates?
+How do you manage forms in Angular using reactive or template-driven approaches?
+What are the best practices for handling Angular component lifecycle hooks?
+How do you optimize Angular applications for mobile performance?
+How do you implement Angular Signals for state synchronization?
+What are the best practices for using Angular pipes effectively?
+How do you handle global error handling in Angular applications?
+How do you manage Angular directives for complex UI logic?
+How do you use Angular Signals for event-driven architecture?
+What are the best practices for handling large data sets in Angular applications?
+How do you handle HTTP interceptors in Angular?
+How do you use Angular Signals for managing component communication?
+What are the best practices for implementing internationalization (i18n) in Angular?
+How do you optimize change detection in Angular applications?
+How do you manage security concerns in Angular applications?
+How do you implement Angular Signals for reactive UI updates?
+What are the best practices for handling asynchronous operations in Angular?
+How do you handle form validation in Angular applications?
+How do you implement Angular Signals for performance optimization?
+How do you handle component reusability in Angular applications?
+What are the best practices for managing Angular application configuration?
+How do you implement Angular Signals for cross-component communication?
+How do you handle and manage Angular service workers for PWA capabilities?
+What are the best practices for handling Angular event binding?
+How do you implement Angular Signals for handling data streams?
+How do you manage routing and navigation in Angular applications?
+How do you optimize Angular applications for SEO and server-side rendering?
+How do you implement Angular Signals for responsive UI design?
+How do you handle component-level caching and state management in Angular?
+What are the best practices for using Storybook for component development?
+How do you set up and configure Cypress for end-to-end testing?
+How do you optimize Webpack configuration for large-scale applications?
+What are the best practices for using ESLint in a frontend project?
+How do you use Prettier for code formatting in a team setting?
+How do you configure Babel for cross-browser compatibility?
+What are the best practices for using TypeScript with Jest for unit testing?
+How do you set up and manage a design system using Storybook?
+How do you use Cypress for testing dynamic web applications?
+How do you optimize Parcel bundler for performance?
+What are the best practices for using Rollup in a frontend project?
+How do you configure and use TSLint in a TypeScript project?
+How do you manage and optimize CSS with PostCSS?
+How do you integrate Jest with Enzyme for React component testing?
+How do you use Stylelint for managing CSS best practices?
+How do you configure and use Husky for managing Git hooks?
+What are the best practices for setting up CI/CD pipelines with GitHub Actions?
+How do you use Cypress for cross-browser testing?
+How do you configure Webpack for tree shaking and code splitting?
+How do you use Storybook to document and test UI components?
+What are the best practices for using Vite in frontend development?
+How do you configure and use SWC for faster builds in large projects?
+How do you use Cypress for API testing in frontend applications?
+How do you set up and manage linting and formatting tools in a monorepo?
+What are the best practices for managing package dependencies with Yarn?
+How do you use Prettier and ESLint together in a TypeScript project?
+How do you integrate Cypress with Docker for consistent test environments?
+How do you use Jest with React Testing Library for component testing?
+What are the best practices for using Snowpack in modern web development?
+How do you configure and use BrowserStack for cross-browser testing?
+How do you use Cypress to test accessibility (a11y) in web applications?
+How do you manage environment variables in frontend projects with Dotenv?
+How do you use Webpack plugins to optimize build performance?
+How do you set up and use Puppeteer for headless browser testing?
+What are the best practices for using NPM scripts for task automation?
+How do you use Jest for snapshot testing in frontend projects?
+How do you configure and use Babel for TypeScript projects?
+How do you use Storybook for visual regression testing?
+How do you manage and optimize Webpack's Hot Module Replacement (HMR)?
+What are the best practices for using Cypress to test mobile web applications?
+How do you use ESLint plugins for specific frameworks like React or Vue?
+How do you optimize Webpack for faster incremental builds?
+How do you use Cypress for testing complex user interactions?
+How do you integrate Storybook with your CI/CD pipeline?
+How do you manage frontend build processes with Gulp?
+What are the best practices for using Jest with Mock Service Worker (MSW) for API mocking?
+How do you configure and use ESLint with Airbnb style guide?
+How do you set up and use Browsersync for synchronized testing across devices?
+How do you use Cypress to test Progressive Web Apps (PWAs)?
+How do you manage and optimize large CSS files with PostCSS and Autoprefixer?

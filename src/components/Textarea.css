@@ -1,0 +1,42 @@
+.textarea-label {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 8px; 
+    align-items: center;
+    width: 100%;
+  }
+  .label-text {
+    display: flex;
+    align-items: flex-start;
+    width: inherit
+  }
+
+.text-area {
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    padding: 10px; 
+    font-size: 16px; 
+    line-height: 1.5; 
+    background-color: #f9f9f9; 
+    color: #333; 
+    width: 90%; 
+    height: 250px; 
+    resize: none;
+  }
+.editor {
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    padding: 10px; 
+    font-size: 16px; 
+    line-height: 1.5; 
+    background-color: #f9f9f9; 
+    width: 90%; 
+    height: 250px; 
+    resize: none;
+  }
+  
+  textarea:focus {
+    border-color: #007bff; 
+    outline: none; 
+    box-shadow: 0 0 0 2px rgba(38, 143, 255, 0.2); 
+  }
